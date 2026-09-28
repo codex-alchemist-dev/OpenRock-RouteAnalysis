@@ -1,0 +1,8 @@
+{
+  "name": "@openrock/route-analysis",
+  "version": "1.0.0",
+  "description": "Escape-route detection and blocker assignment, reusing Terrain's bounded flood-fill - a room's exits and a target's flee routes are literally the same computation, re-centered.",
+  "license": "MPL-2.0",
+  "private": true,
+  "main": "src/register.js"
+}
